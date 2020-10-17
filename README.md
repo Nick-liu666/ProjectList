@@ -6,7 +6,7 @@ The list of project that I enrolled
 
 -A capstone project that help students to organize and build up the time table wisely
 
--Github:
+-Github:https://github.com/yang242j/VSB_Plus
 
 
 -FireAwareness
@@ -14,3 +14,6 @@ The list of project that I enrolled
 -An application that can help children to practice doing 911 call simulation.
 
 -Github:
+https://github.com/Nick-liu666/ENSE471
+
+https://github.com/moehared/FireAwareness
