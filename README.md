@@ -5,7 +5,7 @@ The list of project that I enrolled
 
 -A graph project that does the product recommendation base on the buyer similarity
 
--Github:https://github.com/yang242j/VSB_Plus
+-Github:[link](https://github.com/Nick-liu666/496_project_code/tree/main)
 
 
 -VSB_Plus (Visual Schedule Builder Plus)
