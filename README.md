@@ -1,6 +1,12 @@
 # Project_List
 The list of project that I enrolled
 
+-Project Recommendation System
+
+-A graph project that does the product recommendation base on the buyer similarity
+
+-Github:https://github.com/yang242j/VSB_Plus
+
 
 -VSB_Plus (Visual Schedule Builder Plus)
 
@@ -16,4 +22,3 @@ The list of project that I enrolled
 -Github:
 https://github.com/Nick-liu666/ENSE471
 
-https://github.com/moehared/FireAwareness
