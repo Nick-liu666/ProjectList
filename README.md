@@ -5,19 +5,19 @@ The list of project that I enrolled
 
 -A graph project that does the product recommendation base on the buyer similarity
 
--Github:[link](https://github.com/Nick-liu666/496_project_code/tree/main)
+-Github:https://github.com/Nick-liu666/496_project_code/tree/main
 
 
 -VSB_Plus (Visual Schedule Builder Plus)
 
 -A capstone project that help students to organize and build up the time table wisely
 
--Github:[link](https://github.com/yang242j/VSB_Plus)
+-Github:https://github.com/yang242j/VSB_Plus
 
 
 -FireAwareness
 
 -An application that can help children to practice doing 911 call simulation.
 
--Github:[link](https://github.com/Nick-liu666/ENSE471)
+-Github:https://github.com/Nick-liu666/ENSE471
 
