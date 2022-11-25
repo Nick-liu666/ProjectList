@@ -1,7 +1,7 @@
 # Project_List
 The list of project that I enrolled
 
--Huamn Fall Detection 
+## Huamn Fall Detection 
 
 -Ues ResNet50 + LSTM network to detect fall action based on computer version.
 
