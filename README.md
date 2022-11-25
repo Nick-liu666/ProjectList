@@ -1,6 +1,18 @@
 # Project_List
 The list of project that I enrolled
 
+-Huamn Fall Detection 
+
+-Ues ResNet50 + LSTM network to detect fall action based on computer version.
+
+-Github:https://github.com/Nick-liu666/Human-Fall-Detection
+
+-Pac-Man Work in class
+
+-Using the different search strategy to help Pac-Man take all the beans
+
+-Github:https://github.com/Nick-liu666/ENSE-496AC-Lab-Pac-Man
+
 -Project Recommendation System
 
 -A graph project that does the product recommendation base on the buyer similarity
